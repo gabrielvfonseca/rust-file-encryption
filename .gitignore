@@ -1,0 +1,15 @@
+# Rust target directory
+/target/
+
+# Rust generated documentation
+/doc/
+
+# Cargo.lock file
+Cargo.lock
+
+# Compiled Rust binaries (e.g., the output of 'cargo build')
+**/target/release/
+**/target/debug/
+
+# IntelliJ IDEA files
+.idea/
